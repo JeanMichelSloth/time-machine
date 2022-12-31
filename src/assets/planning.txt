@@ -1,0 +1,29 @@
+19h00:
+- arrivée des invités
+- époque = présent
+- étape repas = entrée
+- décompte = 05:00:00
+
+20h30:
+- premier voyage dans le temps
+- époque = passé
+- étape repas = plat de résistance/fromage
+- décompte = 03:30:00
+
+22h30:
+- deuxième voyage dans le temps
+- époque = futur
+- étape repas = dessert
+- décompte = 01:30:00
+
+23h59:
+- troisième voyage dans le temps
+- époque = présent
+- étape repas = fin
+- décompte = 00:00:30
+
+00h00:
+- bonne année !!!
+- époque = présent
+- étape repas = fin
+- décompte = 00:00:00

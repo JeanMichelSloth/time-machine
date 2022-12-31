@@ -1,0 +1,63 @@
+[
+  {
+    "anneeEtape": 2022,
+    "decompteAlerte": "25:26:00",
+    "ecartAnneeSuivante": -700,
+    "etapesConfiguration": [
+      "Initialisation du flux temporel...",
+      "Activation du bio-compensateur géodésique...",
+      "Déploiement des polarisateurs quantiques...",
+      "Transmission des ondes scalaires...",
+      "Tachyonisation des voyageurs...",
+      "Vérification de la concentration gluonique...",
+      "Ouverture du trou de verre inter-stellaire...",
+      "MACHINE TEMPORELLE CONFIGUREE AVEC SUCCES"
+    ],
+    "enigmeActivite": null,
+    "codeSecretActivite": null,
+    "estDernierVoyage": false
+  },
+  {
+    "anneeEtape": 1322,
+    "decompteAlerte": "25:24:00",
+    "ecartAnneeSuivante": 1400,
+    "etapesConfiguration": [
+      "Initialisation de la matrice temporelle...",
+      "Activation du détecteur de contrainte sismo-génétique...",
+      "Déploiement des capteurs à énergie du point Zéro...",
+      "Transmission des coordonnées de Hartmann...",
+      "Subduction karmique des voyageurs...",
+      "Vérification de la fréquence de résonnance géo-biologique...",
+      "Ouverture des chakras cosmiques...",
+      "TIME MACHINE CONFIGUREE AVEC SUCCES"
+    ],
+    "enigmeActivite": [
+      "Cette époque a été marquée par 9 évènements",
+      "Pour les trouver, nul besoin d'être historien",
+      "Il suffit de les chercher"
+    ],
+    "codeSecretActivite": "BITCOIN",
+    "estDernierVoyage": false
+  },
+  {
+    "anneeEtape": 2722,
+    "decompteAlerte": "25:22:00",
+    "ecartAnneeSuivante": -700,
+    "etapesConfiguration": [
+      "Initialisation du truc...",
+      "Activation du bidule...",
+      "Déploiement des bouzins...",
+      "Transmission des machins...",
+      "Vérification de la bestiole...",
+      "Ouverture du bordel...",
+      "TIME MACHINE CONFIGUREE AVEC SUCCES"
+    ],
+    "enigmeActivite": [
+      "Ici, tous ne jurent que par le Livre des morts",
+      "Et vénèrent un certain Marduk",
+      "Mais la Clef est en 8 de l'Astolie"
+    ],
+    "codeSecretActivite": "PANGOLIN",
+    "estDernierVoyage": true
+  }
+]
