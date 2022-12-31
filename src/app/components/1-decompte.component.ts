@@ -48,7 +48,7 @@ export class DecompteComponent {
 
       // Si le décompte est à 00:00:10,
       // on navigue vers le composent bonne année et on stoppe le flux
-      if(decompteNouvelAn === '25:20:30') {
+      if(decompteNouvelAn === '00:00:10') {
         this.router.navigate(['/bonne-annee']);
         return EMPTY;
       }

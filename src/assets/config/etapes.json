@@ -1,7 +1,7 @@
 [
   {
     "anneeEtape": 2022,
-    "decompteAlerte": "25:26:00",
+    "decompteAlerte": "03:00:00",
     "ecartAnneeSuivante": -700,
     "etapesConfiguration": [
       "Initialisation du flux temporel...",
@@ -19,7 +19,7 @@
   },
   {
     "anneeEtape": 1322,
-    "decompteAlerte": "25:24:00",
+    "decompteAlerte": "01:30:00",
     "ecartAnneeSuivante": 1400,
     "etapesConfiguration": [
       "Initialisation de la matrice temporelle...",
@@ -41,7 +41,7 @@
   },
   {
     "anneeEtape": 2722,
-    "decompteAlerte": "25:22:00",
+    "decompteAlerte": "00:01:00",
     "ecartAnneeSuivante": -700,
     "etapesConfiguration": [
       "Initialisation du truc...",
