@@ -19,7 +19,7 @@ import { StateService } from './state.service';
       <div class="enigme" [innerHTML]="enigme$ | async"></div>
       <div class="margin-2">
         <label class="code-secret">CODE SECRET : </label>
-        <input class="code-secret" type="text" [(ngModel)]="codeSecretSaisi">
+        <input class="code-secret" type="text" autofocus [(ngModel)]="codeSecretSaisi">
       </div>
     </div>
   </div>
